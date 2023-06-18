@@ -7,3 +7,6 @@ __pycache__/
 auto-py-to-exe_config.json
 
 ggml*.bin
+
+.DS_Store
+stuff/
