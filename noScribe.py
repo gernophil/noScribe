@@ -476,7 +476,7 @@ class App(ctk.CTk):
                     if platform.system() == 'Windows':
                         config['model_path_precise'] = './models/ggml-large.bin'
                     elif platform.system() == "Darwin": # = MAC
-                        config['model_path_fast'] = os.path.join(bundle_dir, 'models', 'ggml-large.bin')
+                        config['model_path_precise'] = os.path.join(bundle_dir, 'models', 'ggml-large.bin')
                     else:
                         raise Exception('Platform not supported yet.')
                     self.whisper_model = config['model_path_precise']
