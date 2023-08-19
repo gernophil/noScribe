@@ -1,4 +1,7 @@
-﻿# noScribe is available as .dmg installer for Apple Silicon macs
+﻿# THIS REPOSITORY WILL NO LONGER BE UPDATED
+I will continue my work here: https://github.com/kaixxx/noScribe
+
+# noScribe is available as .dmg installer for Apple Silicon macs
 noScribe is available as .dmg installer for Apple Silicon macs, but up to now I don't have a file hoster. Contact me, if you are interested.
 
 # noScribe for macOS
